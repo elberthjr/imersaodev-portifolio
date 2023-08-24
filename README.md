@@ -1,5 +1,5 @@
-#Portifolio da Imersão Dev da Alura! 
+# Portifolio da Imersão Dev da Alura! 
 
-#Link do Portiflio:
+## Link do Portiflio:
 
 https://elberthjr.github.io/imersaodev-portifolio/index.html
